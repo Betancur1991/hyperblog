@@ -1,1 +1,2 @@
-Este es mi primer repo estudiando git
+Este es mi primer repo estudiando git 
+a mis 31 años
