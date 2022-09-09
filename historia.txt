@@ -1,2 +1,3 @@
 Este es mi primer repo estudiando git 
 a mis 31 años
+voy a mejorar mis habilidades como desarrollador
